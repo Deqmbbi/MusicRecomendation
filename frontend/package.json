@@ -1,5 +1,5 @@
 {
-  "name": "do-smth-store",
+  "name": "musicRecomendation",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
