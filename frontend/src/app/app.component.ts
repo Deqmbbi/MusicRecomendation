@@ -13,5 +13,5 @@ import { SpinnerComponent } from './shared/ui/spinner/spinner.component';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'DoSmthStore';
+  title = 'MusicRecomendation';
 }
